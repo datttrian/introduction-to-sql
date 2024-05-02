@@ -16,16 +16,6 @@ The second half of this course looks at creating SQL queries for selecting data 
 
 PostgreSQL and SQL Server are two of the most popular SQL flavors. You’ll finish off this course by looking at the differences, benefits, and applications of each. By the end of the course you’ll have some hands-on experience in learning SQL and the grounding to start applying it on projects or continue your learning in a more specialized direction.
 
-## Instructions
-
-``` sh
-./start_postgres.sh
-docker exec -it pg-docker /bin/bash
-docker cp books.csv pg-docker:/tmp/books.csv
-psql -d local postgres
-
-```
-
 ## Instructor
 
 Izzy Weber
