@@ -9,6 +9,7 @@
             "extensions": [
                 "vsls-contrib.gitdoc",
                 "ms-toolsai.jupyter",
+                "adpyke.vscode-sql-formatter",
                 "DavidAnson.vscode-markdownlint",
                 "EditorConfig.EditorConfig",
                 "VisualStudioExptTeam.intellicode-api-usage-examples",
