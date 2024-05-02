@@ -1,6 +1,8 @@
-# Relational Databases
+# Introduction to SQL
 
-## Our very own table
+## Relational Databases
+
+### Our very own table
 
 A database has been set up for this course and the `books` table is
 available here.
@@ -19,9 +21,9 @@ SELECT *
 FROM books;
 ```
 
-# Querying
+## Querying
 
-## Querying the books table
+### Querying the books table
 
 You're ready to practice writing your first SQL queries using the
 `SELECT` and `FROM` keywords. Recall from the video that `SELECT` is
@@ -62,7 +64,7 @@ SELECT *
 FROM books;
 ```
 
-## Making queries DISTINCT
+### Making queries DISTINCT
 
 You've learned that the `DISTINCT` keyword can be used to return unique
 values in a field. In this exercise, you'll use this understanding to
@@ -99,7 +101,7 @@ SELECT DISTINCT author, genre
 FROM books;
 ```
 
-## Aliasing
+### Aliasing
 
 While the default column names in a SQL result set come from the fields
 they are created from, you've learned that aliasing can be used to
@@ -123,7 +125,7 @@ SELECT DISTINCT author AS unique_author
 FROM books;
 ```
 
-## VIEWing your query
+### VIEWing your query
 
 You've worked hard to create the below SQL query:
 
@@ -160,7 +162,7 @@ SELECT *
 FROM library_authors;
 ```
 
-## Limiting results
+### Limiting results
 
 Let's take a look at a few of the genres represented in our library's
 books.
