@@ -1,6 +1,6 @@
 # Introduction to SQL
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/introduction-to-embeddings-with-the-openai-api)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/introduction-to-sql)
 
 ![Clear as Data](http://drive.google.com/uc?export=view&id=1PJVtMhPE_h3g2c9wXm9tf6_pIhvMyDRI)
 
