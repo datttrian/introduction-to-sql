@@ -8,6 +8,4 @@ CREATE TABLE books (
   genre VARCHAR(1000)
 );
 
-\ copy books
-FROM
-  '/tmp/books.csv' DELIMITER ',' CSV HEADER;
+\copy books FROM '/tmp/books.csv' DELIMITER ',' CSV HEADER;
